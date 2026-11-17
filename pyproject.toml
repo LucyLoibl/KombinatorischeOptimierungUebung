@@ -8,4 +8,5 @@ dependencies = [
     "mip>=2.0.0",
     "numpy>=2.5.4",
     "pandas>=3.0.6",
+    "scipy>=1.18.1",
 ]
